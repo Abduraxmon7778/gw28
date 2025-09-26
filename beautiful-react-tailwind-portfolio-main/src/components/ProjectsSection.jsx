@@ -29,7 +29,7 @@ const projects = [
     image: "../src/assets/image copy 2.png",
     tags: ["React", "Javascript", "CSS", "Mongodb"],
     demoUrl: "#",
-    demosayt:"https://youtube2-git-main-abduraxmons-projects-1ba3d4db.vercel.app/",
+    demosayt:"https://youtube2-tawny.vercel.app/",
     githubUrl: "#",
   },
 ];
